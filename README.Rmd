@@ -3,7 +3,7 @@ title: "README"
 output: html_document
 ---
 
-![](logo2.png)
+![](simplocation_leaflet 2/logo2.png)
 
 ## Simplocation
 
