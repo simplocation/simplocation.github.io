@@ -112,11 +112,11 @@ function addPolygonToMap(map) {
 
 function jsonToMap(data,map){
   		
-  	
+  	var behavior = new H.mapevents.Behavior(new H.mapevents.MapEvents(map));
 	addPolygonToMap(map);
 } 
 
-var behavior = new H.mapevents.Behavior(new H.mapevents.MapEvents(map));
+
 
 
 
